@@ -1,1 +1,1 @@
-It is a simple Todo list made using python wich stores the data in the file.
+It is a simple Todo list made using python which stores the data in the file.
